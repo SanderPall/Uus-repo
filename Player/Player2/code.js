@@ -6,22 +6,64 @@ function _all(query){
 }
 let songList = [
 	{
-		thumbnail:"Summertime_Sadness.jpg",
-		audio:"Summertime_Sadness.mp3",
-		songname:"Summertime Sadness",
-		artistname:"Lana Del Rey"
+		thumbnail:"1..png",
+		audio:"1. Temptress - Lies (Ross From Friends Remix).mp3",
+		songname:"Lies (Ross From Friends Remix)",
+		artistname:"Temptress"
 	},
 	{
-		thumbnail:"Alone.jpg",
-		audio:"Alone.mp3",
-		songname:"Alone",
-		artistname:"Marshmellow",
+		thumbnail:"2..png",
+		audio:"2. Mall Grab - Orange County.mp3",
+		songname:"Orange County",
+		artistname:"Mall Grab"
 	},
 	{
-		thumbnail:"Rockstar.jpg",
-		audio:"Rockstar.mp3",
-		songname:"Rockstar",
-		artistname:"post malone/21 savage",
+		thumbnail:"3..png",
+		audio:"3. JVXTA - Suzuku Dream.mp3",
+		songname:"Suzuku Dream",
+		artistname:"JVXTA"
+	},
+	{
+		thumbnail:"4..png",
+		audio:"4. Bigger Than Prince - Green Velvet.mp3",
+		songname:"Bigger Than Prince (Hot Since 82 Remix)",
+		artistname:"Green Velvet"
+	},
+	{
+		thumbnail:"5..png",
+		audio:"5. Talk To Me.mp3",
+		songname:"Talk To Me",
+		artistname:"Colour Castle"
+	},
+	{
+		thumbnail:"6..png",
+		audio:"6. Chris Lake feat Alexis Roberts - Turn Off The Lights.mp3",
+		songname:"Turn Off The Lights (feat. Alexis Roberts)",
+		artistname:"Chris Lake"
+	},
+	{
+		thumbnail:"7..png",
+		audio:"7. Dombresky - Simple Hit.mp3",
+		songname:"Simple Hit",
+		artistname:"Dombresky"
+	},
+	{
+		thumbnail:"8..png",
+		audio:"8. Moksi - Gipsy (Feat. Haj).mp3",
+		songname:"Gipsy (feat. Haj)",
+		artistname:"Moksi"
+	},
+	{
+		thumbnail:"9..png",
+		audio:"9. Shy FX - Too Shy feat. Sinead Harnett (Breakage remix).mp3",
+		songname:"Too Shy (feat. Sinead Harnett) (Breakage remix)",
+		artistname:"Shy FX"
+	},
+	{
+		thumbnail:"10..png",
+		audio:"10. Mario High (Original Mix).mp3",
+		songname:"Mario High",
+		artistname:"Future Class, Rivas"
 	},
 
 ];
