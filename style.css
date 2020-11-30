@@ -1,0 +1,199 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+header {
+  padding: 10px;
+  font-size: 40px;
+  display: flex;
+  font-family: "Comfortaa";
+  letter-spacing: 3px;
+  color: #f13c20;
+  height: 40px;
+  width: 95%;
+  margin: auto;
+  flex: 1;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.Contact {
+  width: 400px;
+  font-size: 17px;
+  margin-left: 390px;
+  margin-top: 75px;
+  color: #f13c20;
+  border: solid 3px #f13c20;
+  border-radius: 30px;
+  padding: 30px;
+  padding-right: 60px;
+  font-family: "Comfortaa";
+  text-decoration: #f13c20;
+}
+
+.Contact input,
+label,
+textarea,
+button {
+  width: 100%;
+  margin: 15px;
+}
+
+.Contact input {
+	height: 25px;
+	background-color: transparent;
+  border-style: solid;
+  font-family: 'Comfortaa';
+	border-width: 0px 0px 1px 0px;
+	border-color: #f13c20;
+}
+
+.input, select, textarea{
+	color: white
+}
+
+.Contact input, select{
+	color: white;
+}
+
+.Contact textarea {
+	background-color: white;
+	height: 100px;
+	background-color: transparent;
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+  border-color: #f13c20;
+  font-family: 'Comfortaa';
+}
+
+.button {
+  background-color: #f13c20;
+  font-size: 20px;
+  padding: 10px;
+  font-family: 'Comfortaa';
+  color: #fff;
+}
+
+header img {
+  width: 80px;
+  padding-right: 15px;
+}
+
+.ikoon {
+  width: 80px;
+  height: 45px;
+  padding-left: 600px;
+  padding-top: 75px;
+}
+
+.info {
+  color:#f13c20;
+  font-family: 'Comfortaa';
+  padding-left: 350px;
+  margin-right: 350px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.title {
+  padding-bottom: 10px;
+}
+
+body {
+  background-image: url("taust.png");
+  background-size: cover;
+}
+
+.andmed {
+  font-size: 15px;
+  justify-content: flex-end;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  list-style: none;
+}
+
+.andmed2 {
+  text-decoration: none;
+  color: #f13c20;
+  padding: 20px;
+}
+
+.pildid {
+  display: flex;
+  width: 95%;
+  margin: auto;
+}
+
+.pildid nav {
+  width: 20%;
+  overflow: hidden;
+}
+
+.pildid nav img {
+  width: 100%;
+  float: left;
+  position: relative;
+}
+
+.esimene figure img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.esimene figure:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.teine figure img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.teine figure:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.kolmas figure img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.kolmas figure:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.neljas figure img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.neljas figure:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.viies figure img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.viies figure:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
